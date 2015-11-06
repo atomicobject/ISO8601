@@ -1,3 +1,7 @@
+# Atomic Object
+
+This was forked from https://github.com/soffes/ISO8601 in order to fix a bug caused by daylight saving time (see pull request https://github.com/soffes/ISO8601/pull/22). It is used as a CocoaPod in the Neurometrix Quell project.
+
 # ISO8601
 
 [![Version](https://img.shields.io/github/release/soffes/ISO8601.svg)](https://github.com/soffes/ISO8601/releases) [![Build Status](https://travis-ci.org/soffes/ISO8601.svg?branch=master)](https://travis-ci.org/soffes/ISO8601) [![Coverage Status](https://coveralls.io/repos/soffes/ISO8601/badge.svg?branch=master)](https://coveralls.io/r/soffes/ISO8601?branch=master) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![CocoaPods compatible](https://img.shields.io/cocoapods/v/ISO8601.svg)](https://cocoapods.org/pods/ISO8601)
