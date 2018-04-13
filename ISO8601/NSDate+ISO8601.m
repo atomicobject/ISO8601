@@ -44,7 +44,7 @@
 #pragma mark - Writing
 
 - (NSString *)ISO8601String {
-	return [self ISO8601StringWithTimeZone:[NSTimeZone localTimeZone] usingCalendar:nil];
+	return [self ISO8601StringWithTimeZone:[NSTimeZone defaultTimeZone] usingCalendar:nil];
 }
 
 
